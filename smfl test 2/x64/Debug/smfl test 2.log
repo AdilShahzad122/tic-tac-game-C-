@@ -1,0 +1,80 @@
+﻿  smfl test 2.cpp
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(65,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(65,64): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(65,64): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(65,64): warning C4244:             T=float
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(65,64): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(66,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(66,64): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(66,64): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(66,64): warning C4244:             T=float
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(66,64): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(69,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(70,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(71,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(71,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(72,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(72,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(79,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(83,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(83,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(84,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(84,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(111,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(111,49): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(111,49): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(111,49): warning C4244:             T=unsigned int
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(111,49): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,68): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,68): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,68): warning C4244:             T=unsigned int
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,68): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,48): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,48): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,48): warning C4244:             T=unsigned int
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(112,48): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,66): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,66): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,66): warning C4244:             T=unsigned int
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,66): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,46): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,46): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,46): warning C4244:             T=unsigned int
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(113,46): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:             T=int
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:         and
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:             T=float
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,82): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:             T=int
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:         and
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:             T=float
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(123,70): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(139,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(139,48): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(139,48): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(139,48): warning C4244:             T=float
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(139,48): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(140,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(140,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(143,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(143,51): warning C4244:         with
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(143,51): warning C4244:         [
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(143,51): warning C4244:             T=float
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(143,51): warning C4244:         ]
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(144,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adils\source\repos\smfl test 2\smfl test 2.cpp(144,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  smfl test 2.vcxproj -> C:\Users\adils\source\repos\smfl test 2\x64\Debug\smfl test 2.exe
